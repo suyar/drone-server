@@ -26,4 +26,4 @@ jobs:
           push: true
           tags: |
             suyar/drone-server:${{ github.ref_name }}
-            suyar/drone-server: 2
+            suyar/drone-server:2
