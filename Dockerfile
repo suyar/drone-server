@@ -1,6 +1,6 @@
 FROM golang:1.14.15 as build
 
-ENV DRONE_VERSION=2.23.0
+ENV DRONE_VERSION=2.24.0
 
 WORKDIR /src
 
